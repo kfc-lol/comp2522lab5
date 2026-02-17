@@ -25,6 +25,7 @@ public class Bookstore
         final Novel novel7;
         final Novel novel8;
         final Novel novel9;
+        final Novel novel10;
         final Novel novel11;
         final Novel novel12;
         final Novel novel13;
