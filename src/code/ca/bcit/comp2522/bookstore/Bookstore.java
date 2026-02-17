@@ -38,6 +38,37 @@ public class Bookstore
         final Novel novel22;
         final Novel novel23;
         final Novel novel24;
+        final Novel novel25;
+        final Novel novel26;
+        final Novel novel27;
+        final Novel novel28;
+        final Novel novel29;
+        final Novel novel30;
+        final Novel novel31;
+        final Novel novel32;
+        final Novel novel33;
+        final Novel novel34;
+        final Novel novel35;
+        final Novel novel36;
+        final Novel novel37;
+        final Novel novel38;
+        final Novel novel39;
+        final Novel novel40;
+        final Novel novel41;
+        final Novel novel42;
+        final Novel novel43;
+        final Novel novel44;
+        final Novel novel45;
+        final Novel novel46;
+        final Novel novel47;
+        final Novel novel48;
+        final Novel novel49;
+        final Novel novel50;
+        final Novel novel51;
+        final Novel novel52;
+        final Novel novel53;
+        final Novel novel54;
+
 
         novel1 = new Novel("The Adventures of Augie March",
                            "Saul Bellow",
@@ -135,6 +166,127 @@ public class Bookstore
                             "Thomas Pynchon",
                             1966);
 
+        novel25 = new Novel("A Dance to the Music of Time",
+                            "Anthony Powell",
+                            1951);
+
+        novel26 = new Novel("The Day of the Locust",
+                            "Nathanael West",
+                            1939);
+
+        novel27 = new Novel("Death Comes for the Archbishop",
+                            "Willa Cather",
+                            1927);
+
+        novel28 = new Novel("A Death in the Family",
+                            "James Agee",
+                            1958);
+
+        novel29 = new Novel("The Death of the Heart",
+                            "Elizabeth Bowen",
+                            1958);
+
+        novel30 = new Novel("Deliverance",
+                            "James Dickey",
+                            1970);
+
+        novel31 = new Novel("Dog Soldiers",
+                            "Robert Stone",
+                            1974);
+
+        novel32 = new Novel("Falconer",
+                            "John Cheever",
+                            1977);
+
+        novel33 = new Novel("The French Lieutenant's",
+                            "John Fowles",
+                            1969);
+
+        novel34 = new Novel("The Golden Notebook",
+                            "Doris Lessing",
+                            1962);
+
+        novel35 = new Novel("Go Tell It on the Mountain",
+                            "James Baldwin",
+                            1953);
+
+        novel36 = new Novel("Gone with the Wind",
+                            "Margaret Mitchell",
+                            1936);
+
+        novel37 = new Novel("The Grapes of Wrath",
+                            "John Steinbeck",
+                            1939);
+
+        novel38 = new Novel("Gravity's Rainbow",
+                            "Thomas Pynchon",
+                            1973);
+
+        novel39 = new Novel("The Great Gatsby",
+                            "F. Scott Fitzgerald",
+                            1925);
+
+        novel40 = new Novel("A Handful of Dust",
+                            "Evelyn Waugh",
+                            1934);
+
+        novel41 = new Novel("The Heart Is a Lonely Hunter",
+                            "Carson McCullers",
+                            1940);
+
+        novel42 = new Novel("The Heart of the Matter",
+                            "Graham Greene",
+                            1948);
+
+        novel43 = new Novel("Herzog",
+                            "Saul Bellow",
+                            1964);
+
+        novel44 = new Novel("Housekeeping",
+                            "Marilynne Robinson",
+                            1981);
+
+        novel45 = new Novel("A House for Mr.Biswas",
+                            "V.S. Naipaul",
+                            1953);
+
+        novel46 = new Novel("I, Claudius",
+                            "Robert Graves",
+                            1934);
+
+        novel47 = new Novel("Infinite Jest",
+                            "David Foster Wallace",
+                            1996);
+
+        novel48 = new Novel("Invisible Man",
+                            "Ralph Ellison",
+                            1952);
+
+        novel49 = new Novel("Light in August",
+                            "William Faulkner",
+                            1932);
+
+        novel50 = new Novel("The Lion, The Witch and the Wardrobe",
+                            "C.S. Lewis",
+                            1950);
+
+        novel51 = new Novel("Lolita",
+                            "Vladimir Nabokov",
+                            1955);
+
+        novel52 = new Novel("Lord of the Flies",
+                            "William Golding",
+                            1954);
+
+        novel53 = new Novel("The Lord of the Rings",
+                            "J.R.R Tolkien",
+                            1954);
+
+        novel54 = new Novel("Loving",
+                            "Henry Green ",
+                            1945);
+
+
         references.add(novel1);
         references.add(novel2);
         references.add(novel3);
@@ -159,6 +311,36 @@ public class Bookstore
         references.add(novel22);
         references.add(novel23);
         references.add(novel24);
+        references.add(novel25);
+        references.add(novel26);
+        references.add(novel27);
+        references.add(novel28);
+        references.add(novel29);
+        references.add(novel30);
+        references.add(novel31);
+        references.add(novel32);
+        references.add(novel33);
+        references.add(novel34);
+        references.add(novel35);
+        references.add(novel36);
+        references.add(novel37);
+        references.add(novel38);
+        references.add(novel39);
+        references.add(novel40);
+        references.add(novel41);
+        references.add(novel42);
+        references.add(novel43);
+        references.add(novel44);
+        references.add(novel45);
+        references.add(novel46);
+        references.add(novel47);
+        references.add(novel48);
+        references.add(novel49);
+        references.add(novel50);
+        references.add(novel51);
+        references.add(novel52);
+        references.add(novel53);
+        references.add(novel54);
     }
 
     /**
