@@ -6,10 +6,7 @@ import java.util.List;
 
 public class Bookstore
 {
-
-    public static final int INDEX_OFFSET = 1;
     public static final int FIRST_INDEX = 0;
-    public static final int ALPHABET_DIFFERENCE = 0;
     public static final int DECADE_RANGE = 10;
     private final String name;
     private final List<Novel> references;
@@ -28,7 +25,6 @@ public class Bookstore
         final Novel novel7;
         final Novel novel8;
         final Novel novel9;
-        final Novel novel10;
         final Novel novel11;
         final Novel novel12;
         final Novel novel13;
