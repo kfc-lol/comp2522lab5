@@ -68,6 +68,53 @@ public class Bookstore
         final Novel novel52;
         final Novel novel53;
         final Novel novel54;
+        final Novel novel55;
+        final Novel novel56;
+        final Novel novel57;
+        final Novel novel58;
+        final Novel novel59;
+        final Novel novel60;
+        final Novel novel61;
+        final Novel novel62;
+        final Novel novel63;
+        final Novel novel64;
+        final Novel novel65;
+        final Novel novel66;
+        final Novel novel67;
+        final Novel novel68;
+        final Novel novel69;
+        final Novel novel70;
+        final Novel novel71;
+        final Novel novel72;
+        final Novel novel73;
+        final Novel novel74;
+        final Novel novel75;
+        final Novel novel76;
+        final Novel novel77;
+        final Novel novel78;
+        final Novel novel79;
+        final Novel novel80;
+        final Novel novel81;
+        final Novel novel82;
+        final Novel novel83;
+        final Novel novel84;
+        final Novel novel85;
+        final Novel novel86;
+        final Novel novel87;
+        final Novel novel88;
+        final Novel novel89;
+        final Novel novel90;
+        final Novel novel91;
+        final Novel novel92;
+        final Novel novel93;
+        final Novel novel94;
+        final Novel novel95;
+        final Novel novel96;
+        final Novel novel97;
+        final Novel novel98;
+        final Novel novel99;
+        final Novel novel100;
+
 
 
         novel1 = new Novel("The Adventures of Augie March",
@@ -286,6 +333,191 @@ public class Bookstore
                             "Henry Green ",
                             1945);
 
+        novel55 = new Novel("Lucky Jim",
+                            "Kingsley Amis",
+                            1954);
+
+        novel56 = new Novel("The Man Who Loved Children",
+                            "Christina Stead",
+                            1940);
+
+        novel57 = new Novel("Midnight's Children",
+                            "Salman Rushdie",
+                            1981);
+
+        novel58 = new Novel("Money",
+                            "Martin Amis",
+                            1984);
+
+        novel59 = new Novel("The Moviegoer",
+                            "Walker Percy",
+                            1961);
+
+        novel60 = new Novel("Mrs. Dalloway",
+                            "Virginia Woolf",
+                            1925);
+
+        novel61 = new Novel("Naked Lunch",
+                            "William Burroughs",
+                            1959);
+
+        novel62 = new Novel("Native Son",
+                            "Richard Wright",
+                            1940);
+
+        novel63 = new Novel("Neuromancer",
+                            "William Gibson",
+                            1984);
+
+        novel64 = new Novel("Never Let Me Go",
+                            "Kazuo Ishiguro",
+                            2005);
+
+        novel65 = new Novel("1984",
+                            "George Orwell",
+                            1948);
+
+        novel66 = new Novel("On the Road",
+                            "Jack Kerouac",
+                            1957);
+
+        novel67 = new Novel("One Flew Over the Cuckoo's Nest",
+                            "Ken Kesey",
+                            1962);
+
+        novel68 = new Novel("The Painted Bird",
+                            "Jerzy Kosinski",
+                            1965);
+
+        novel69 = new Novel("Pale Fire",
+                            "Vladimir Nabokov",
+                            1962);
+
+        novel70 = new Novel("A Passage to India",
+                            "E.M. Forster",
+                            1924);
+
+        novel71 = new Novel("Play It as It Lays",
+                            "Joan Didion",
+                            1970);
+
+        novel72 = new Novel("Portnoy's Complaint",
+                            "Philip Roth",
+                            1969);
+
+        novel73 = new Novel("Possession",
+                            "A.S. Byatt",
+                            1990);
+
+        novel74 = new Novel("The Power and the Glory",
+                            "Graham Greene",
+                            1939);
+
+        novel75 = new Novel("The Prime of Miss Jean Brodie",
+                            "Muriel Spark",
+                            1961);
+
+        novel76 = new Novel("Rabbit, Run",
+                            "John Updike",
+                            1960);
+
+        novel77 = new Novel("Ragtime",
+                            "E.L. Doctorow",
+                            1975);
+
+        novel78 = new Novel("The Recognitions",
+                            "William Gaddis",
+                            1955);
+
+        novel79 = new Novel("Red Harvest",
+                            "Dashiell Hammett",
+                            1929);
+
+        novel80 = new Novel("Revolutionary Road",
+                            "Richard Yates",
+                            1961);
+
+        novel81 = new Novel("The Sheltering Sky",
+                            "Paul Bowles",
+                            1949);
+
+        novel82 = new Novel("Slaughterhouse-Five",
+                            "Kurt Vonnegut",
+                            1969);
+
+        novel83 = new Novel("Snow Crash",
+                            "Neal Stephenson",
+                            1992);
+
+        novel84 = new Novel("The Sot-Weed Factor",
+                            "John Barth",
+                            1960);
+
+        novel85 = new Novel("The Sound and the Fury",
+                            "William Faulkner",
+                            1929);
+
+        novel86 = new Novel("The Sportswriter",
+                            "Richard Ford",
+                            1986);
+
+        novel87 = new Novel("The Spy Who Came in from the Cold",
+                            "John le Carré",
+                            1964);
+
+        novel88 = new Novel("The Sun Also Rises",
+                            "Ernest Hemingway",
+                            1926);
+
+        novel89 = new Novel("Their Eyes Were Watching God",
+                            "Zora Neale Hurston",
+                            1937);
+
+        novel90 = new Novel("Things Fall Apart",
+                            "Chinua Achebe",
+                            1959);
+
+        novel91 = new Novel("To Kill a Mockingbird",
+                            "Harper Lee",
+                            1960);
+
+        novel92 = new Novel("To the Lighthouse",
+                            "Virginia Woolf",
+                            1929);
+
+        novel93 = new Novel("Tropic of Cancer",
+                            "Henry Miller",
+                            1934);
+
+        novel94 = new Novel("Ubik",
+                            "Philip K. Dick",
+                            1969);
+
+        novel95 = new Novel("Under the Net",
+                            "Iris Murdoch",
+                            1954);
+
+        novel96 = new Novel("Under the Volcano",
+                            "Malcolm Lowry",
+                            1947);
+
+        novel97 = new Novel("Watchmen",
+                            "Alan Moore and Dave Gibbons",
+                            1986);
+
+        novel98 = new Novel("White Noise",
+                            "Don DeLillo",
+                            1985);
+
+        novel99 = new Novel("White Teeth",
+                            "Zadie Smith",
+                            2000);
+
+        novel100 = new Novel("Wide Sargasso Sea",
+                            "Jean Rhys",
+                            1966);
+
+
 
         references.add(novel1);
         references.add(novel2);
@@ -341,6 +573,53 @@ public class Bookstore
         references.add(novel52);
         references.add(novel53);
         references.add(novel54);
+        references.add(novel55);
+        references.add(novel56);
+        references.add(novel57);
+        references.add(novel58);
+        references.add(novel59);
+        references.add(novel60);
+        references.add(novel61);
+        references.add(novel62);
+        references.add(novel63);
+        references.add(novel64);
+        references.add(novel65);
+        references.add(novel66);
+        references.add(novel67);
+        references.add(novel68);
+        references.add(novel69);
+        references.add(novel70);
+        references.add(novel71);
+        references.add(novel72);
+        references.add(novel73);
+        references.add(novel74);
+        references.add(novel75);
+        references.add(novel76);
+        references.add(novel77);
+        references.add(novel78);
+        references.add(novel79);
+        references.add(novel80);
+        references.add(novel81);
+        references.add(novel82);
+        references.add(novel83);
+        references.add(novel84);
+        references.add(novel85);
+        references.add(novel86);
+        references.add(novel87);
+        references.add(novel88);
+        references.add(novel89);
+        references.add(novel90);
+        references.add(novel91);
+        references.add(novel92);
+        references.add(novel93);
+        references.add(novel94);
+        references.add(novel95);
+        references.add(novel96);
+        references.add(novel97);
+        references.add(novel98);
+        references.add(novel99);
+        references.add(novel100);
+
     }
 
     /**
@@ -375,6 +654,7 @@ public class Bookstore
             System.out.println(title.toUpperCase());
         }
     }
+
 
 
 }
