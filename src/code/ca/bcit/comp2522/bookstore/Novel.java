@@ -8,6 +8,7 @@ package ca.bcit.comp2522.bookstore;
  * @version 1
  */
 public class Novel
+    implements Comparable<Novel>
 {
 
     private static final int MIN_YEAR     = 1400;
@@ -106,5 +107,11 @@ public class Novel
     public int getYearPublished()
     {
         return yearPublished;
+    }
+
+    @Override
+    public int compareTo(Novel o)
+    {
+        return this.title.compareTo(o.getTitle());
     }
 }
