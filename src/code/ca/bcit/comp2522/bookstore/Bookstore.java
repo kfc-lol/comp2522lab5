@@ -5,6 +5,12 @@ import java.util.Collections;
 import java.util.Iterator;
 import java.util.List;
 
+/**
+ * Represents a Bookstore with collections of novels.
+ *
+ * @author Kian Castro
+ * @version 1.0
+ */
 public class Bookstore
 {
     public static final  int         FIRST_INDEX           = 0;
@@ -652,12 +658,11 @@ public class Bookstore
     {
         for (final Novel reference : references)
         {
-            String title;
+            final String title;
 
             title = reference.getTitle();
-            title = title.toUpperCase();
 
-            System.out.println(title);
+            System.out.println(title.toUpperCase());
         }
     }
 
@@ -683,11 +688,10 @@ public class Bookstore
 
     /**
      * Prints all titles in alphabetical order.
-     *
      */
     public void printTitlesInAlphaOrder()
     {
-        ArrayList<Novel> sorted;
+        final ArrayList<Novel> sorted;
         sorted = (ArrayList<Novel>) references;
         Collections.sort(sorted);
 
@@ -805,6 +809,7 @@ public class Bookstore
                                           final int last)
     {
         final int totalBooks;
+
         int       validBooks;
 
         validBooks = INITIAL_AMOUNT;
@@ -832,8 +837,12 @@ public class Bookstore
      */
     public Novel getOldestBook()
     {
+        // Oldest novel
         Novel oldest;
+
+        // Year published of oldest novel
         int   oldestYear;
+
         oldest     = references.get(FIRST_INDEX);
         oldestYear = oldest.getYearPublished();
 
@@ -864,7 +873,7 @@ public class Bookstore
         final List<Novel> booksThisLength;
         booksThisLength = references;
 
-        Iterator<Novel> it;
+        final Iterator<Novel> it;
         it = booksThisLength.iterator();
 
         while (it.hasNext())

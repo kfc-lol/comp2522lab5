@@ -11,7 +11,7 @@ public class Novel
     implements Comparable<Novel>
 {
 
-    private static final int MIN_YEAR     = 1400;
+    private static final int MIN_YEAR     = 1480;
     private static final int CURRENT_YEAR = 2026;
     private static final int MAX_YEAR     = CURRENT_YEAR;
 
@@ -109,8 +109,14 @@ public class Novel
         return yearPublished;
     }
 
+    /**
+     * Compares titles of novels.
+     *
+     * @param o the object to be compared.
+     * @return int difference between titles
+     */
     @Override
-    public int compareTo(Novel o)
+    public int compareTo(final Novel o)
     {
         return this.title.compareTo(o.getTitle());
     }
